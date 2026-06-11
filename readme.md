@@ -1,4 +1,4 @@
-(forked from: [bjornvoesten/ciphersweet-for-laravel](https://github.com/bjornvoesten/ciphersweet-for-laravel))
+(forked from: [magentron/ciphersweet-for-laravel](https://github.com/Magentron/ciphersweet-for-laravel))
 
 # CipherSweet for Laravel
 
