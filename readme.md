@@ -12,7 +12,7 @@ Make sure you have some basic understanding of CipherSweet before continuing.
 Install the package using composer:
 
 ```
-composer require bjorn-voesten/ciphersweet-for-laravel
+composer require caseraph/ciphersweet-for-laravel
 ```
 
 The package will then automatically register itself.
